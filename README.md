@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Bootstrap, and Laravel, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+
 
 
 ### Connect with Me :
@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=python)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=Laravel)&nbsp;
 
 
 
